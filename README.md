@@ -1,3 +1,3 @@
 ## Hi
 ### This is the read me
-This is a *paragraph*. 
+This is a **paragraph**. 
